@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Form1.resources
+C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Properties.Resources.resources
+C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.GenerateResource.cache
+C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.RegisterForm.resources
+C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.MainForm.resources
+C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.AddEmployee.resources
+C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Dashboard.resources
+C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Salary.resources
